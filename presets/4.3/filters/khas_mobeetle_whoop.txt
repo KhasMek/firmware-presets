@@ -1,0 +1,41 @@
+#$ TITLE: KhasMek Mobeetle6 4.3 Filter settings
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: FILTERS
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: filter, filters, reset
+#$ AUTHOR: KhasMek
+#$ DESCRIPTION: Resets Filter settings to 4.3 defaults
+
+set gyro_hardware_lpf = NORMAL
+
+# -- Gyro lowpass filters --
+set gyro_lpf1_dyn_min_hz = 300
+set gyro_lpf1_dyn_max_hz = 550
+set gyro_lpf1_static_hz = 200
+
+set gyro_lpf2_static_hz = 0
+
+# -- Gyro sliders --
+set simplified_gyro_filter = OFF
+
+# -- Gyro Dynamic Notches --
+set dyn_notch_count = 0
+set dyn_notch_max_hz = 750
+
+# -- RPM filtering --
+set dshot_bidir = ON
+
+# -- Dterm filtering --
+set dterm_lpf1_dyn_min_hz = 112
+set dterm_lpf1_dyn_max_hz = 225
+set dterm_lpf1_static_hz = 112
+
+set dterm_lpf2_static_hz = 225
+
+# -- Dterm sliders --
+set simplified_dterm_filter_multiplier = 150
+
+# -- Yaw lowpass --
+set yaw_lowpass_hz = 0
+

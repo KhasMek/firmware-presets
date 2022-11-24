@@ -171,6 +171,7 @@
       "Joshua Bardwell",
       "Justice - Gary Kent",
       "Jye Smith",
+      "KhasMek",
       "KMfpv",
       "LeadFingers",
       "MinChan Kim",
@@ -812,6 +813,24 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.3/filters/khas_mobeetle_whoop.txt",
+      "hash": "52a6156aa4b7e2b3738664cff9959b35d3319e69ae590cb9fa4ae80ec12a46fa",
+      "title": "KhasMek Mobeetle6 4.3 Filter settings",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "FILTERS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "KhasMek",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/leds/defaults.txt",
       "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
       "title": "Default 4.3 LED settings",
@@ -826,6 +845,27 @@
         "leds"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/Khas_old_modes.txt",
+      "hash": "a8a1d46a266745ec1290cfe6f1c85e15cf02c6565505d50a7eba583f9c2e67d5",
+      "title": "KhasMek's Old Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "KhasMek",
       "priority": 0
     },
     {
@@ -893,6 +933,23 @@
         "GPS"
       ],
       "author": "UAV Tech (Mark Spatz)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/default_happymodel.txt",
+      "hash": "e9d473b715dc1c2a3536ededc0a2e9b529d5e719a32e6cc869ea96f5074d2462",
+      "title": "Default 4.3 OSD settings for HappyModel Whoops",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "KhasMek",
       "priority": 0
     },
     {
@@ -1427,6 +1484,24 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/angry_don_whoop.txt",
+      "hash": "7a36a9e30aa3bdf50ad6c68a7de52654f00438b25d8ba9888e7ad89d4dd5cd14",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rates/ctzsnooze_race.txt",
       "hash": "741e70595d59bc32ecbe993108281d8ba797e5d5b6298901b9edd42af09da6a3",
       "title": "race rates by ctzsnooze",
@@ -1516,6 +1591,24 @@
       ],
       "author": "mouseFPV",
       "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/random_testing_rates.txt",
+      "hash": "5e7905f3c2497db2e7dfd25c02c1c72c2ede602307370de5b541bb54508a6e1e",
+      "title": "Random testing rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "rates",
+        "betaflight"
+      ],
+      "author": "KhasMek",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.3/rc_link/DJI_Normal.txt",
@@ -2803,6 +2896,26 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.3/tune/khas_mobeetle6_whoop_tune.txt",
+      "hash": "aa5dda552f99b30ad691919d8caaab8ce79e8d71a42014a3e29297f6355c0d6d",
+      "title": "Khas Mobeetle6 whoop defaults",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "KhasMek",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/minchan_2022_race.txt",
       "hash": "ea7339c67eadea06b19998caa5b0be098a42e72f90ba50b5018110774d61f8d8",
       "title": "MinChan 2022 Race 6s 5\"",
@@ -3458,6 +3571,24 @@
         "Audio TBS"
       ],
       "author": "KMfpv",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/khas_mobeetle6_defaults.txt",
+      "hash": "e3e30a9704ce282200e16d3433521cc4c32fae7083192355d1cef0eb8a96388c",
+      "title": "Default 4.3 VTX settings for HappyModel Mobeetle6",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "KhasMek",
       "priority": 1000000
     },
     {
