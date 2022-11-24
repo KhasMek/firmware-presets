@@ -1,4 +1,4 @@
-#$ TITLE: Default 4.3 OSD settings for HappyModel Whoops
+#$ TITLE: Unofficial Default 4.3 OSD settings for HappyModel Whoops
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY

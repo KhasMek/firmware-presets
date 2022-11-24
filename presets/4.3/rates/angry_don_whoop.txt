@@ -1,14 +1,15 @@
-#$ TITLE: Default rates
+#$ TITLE: Unofficial Angry Don Mobeetle6 Rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, rates, actual
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Default Betaflight rates - ACTUAL
+#$ AUTHOR: KhasMek
+#$ DESCRIPTION: Unofficual Angry Don Rates (from youtube)
 #$ DESCRIPTION: Will be applied for the currently selected rate profile
 #$ DESCRIPTION: TPA values are not included
 #$ DESCRIPTION: Throttle limit and curve are not included
+#$ DESCRIPTION: Source: https://www.youtube.com/watch?v=WntAhXspWoI
 #$ PRIORITY: 0
 
 set rates_type = BETAFLIGHT

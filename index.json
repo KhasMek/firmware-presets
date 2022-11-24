@@ -937,8 +937,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/default_happymodel.txt",
-      "hash": "e9d473b715dc1c2a3536ededc0a2e9b529d5e719a32e6cc869ea96f5074d2462",
-      "title": "Default 4.3 OSD settings for HappyModel Whoops",
+      "hash": "fd4c61cdc969d5240cf3f399ef0e28ad7adcb93c3b57e1049602d48ca4cb3e31",
+      "title": "Unofficial Default 4.3 OSD settings for HappyModel Whoops",
       "firmware_version": [
         "4.3"
       ],
@@ -1485,8 +1485,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/angry_don_whoop.txt",
-      "hash": "7a36a9e30aa3bdf50ad6c68a7de52654f00438b25d8ba9888e7ad89d4dd5cd14",
-      "title": "Default rates",
+      "hash": "c43ea078d63e46aaed7017ce4294d13816a3a71c6c0b1745cd969638d77ee64e",
+      "title": "Unofficial Angry Don Mobeetle6 Rates",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -1498,7 +1498,7 @@
         "rates",
         "actual"
       ],
-      "author": "Betaflight",
+      "author": "KhasMek",
       "priority": 0
     },
     {
@@ -2897,7 +2897,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/khas_mobeetle6_whoop_tune.txt",
-      "hash": "aa5dda552f99b30ad691919d8caaab8ce79e8d71a42014a3e29297f6355c0d6d",
+      "hash": "d8fcbeb2730ed38d149bc8f0d531eb3070e15922ed67ae86e71ddd75b7d90195",
       "title": "Khas Mobeetle6 whoop defaults",
       "firmware_version": [
         "4.3"
